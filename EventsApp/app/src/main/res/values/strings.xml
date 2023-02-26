@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Events App</string>
+    <string name="login_message">Logging in...</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="empty_events">No events found. Begin adding events now.</string>
+    <string name="delete_button_text">Delete</string>
+    <string name="notify_text">Permission to send SMS notifications</string>
+    <string name="close_button">Close</string>
+</resources>
